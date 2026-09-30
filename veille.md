@@ -28,7 +28,7 @@ Pour effectuer ma veille on m'a conseillé d'utiliser FEEDLY. C'est un agrégate
 - Tutos-Informatique
 
 
-### Linux :
+#### Linux :
 
 - Communauté Fedora-Fr
 - Debian-facile / News
@@ -39,7 +39,7 @@ Pour effectuer ma veille on m'a conseillé d'utiliser FEEDLY. C'est un agrégate
 - Wiki
 - Wiki ubuntu-fr
 
-### Security :
+#### Security :
 
 - Actualités intrusion-hacking
 - Actualités sécurité
