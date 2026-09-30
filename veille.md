@@ -16,12 +16,16 @@
 - Tom's Hardware : https://www.tomshardware.fr/
 - Laquadrature.net : https://www.laquadrature.net/en/
 - MiniMachines.net : https://www.minimachines.net/
-- Youtuber Underscore_ : https://www.youtube.com/@Underscore_
+- Silicon.fr : https://www.silicon.fr/#
 
 
 ## Linux :
 
-- Communauté Fedora-Fr : https://forums.fedora-fr.org/
 - Debian-facile / News : https://debian-facile.org/
-- GLPI Project : https://www.glpi-project.org/fr/blog/
 - LinuxFr.org : https://linuxfr.org/journaux
+
+
+## Autres : 
+
+- GLPI Project : https://www.glpi-project.org/fr/blog/
+- Youtuber Underscore_ : https://www.youtube.com/@Underscore_
