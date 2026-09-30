@@ -13,7 +13,6 @@ En tant que personne qui travaille dans l'IT, il est évidemment important de re
 
 ----
 
-
 ## Informatique Générale + Hardware :
 
 - [InformatiqueNews.fr](https://www.informatiquenews.fr/)
@@ -24,6 +23,7 @@ En tant que personne qui travaille dans l'IT, il est évidemment important de re
 - [MiniMachines.net](https://www.minimachines.net/)
 - [Silicon.fr](https://www.silicon.fr/#)
 
+----
 
 ## Cybersécurité :
 
@@ -31,17 +31,18 @@ En tant que personne qui travaille dans l'IT, il est évidemment important de re
 - [Data Security Breach](https://www.datasecuritybreach.fr/)
 - [BleepingComputer](https://www.bleepingcomputer.com/)
 
+----
 
 ## Linux :
 
 - [Debian-facile](https://debian-facile.org/)
 - [LinuxFr.org](https://linuxfr.org/journaux)
 
+----
 
 ## Autres : 
 
 - [GLPI Project](https://www.glpi-project.org/fr/blog/)
-
 
 ----
 
