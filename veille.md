@@ -21,11 +21,10 @@
 
 ## Linux :
 
-- Debian-facile / News : https://debian-facile.org/
+- Debian-facile : https://debian-facile.org/
 - LinuxFr.org : https://linuxfr.org/journaux
 
 
 ## Autres : 
 
 - GLPI Project : https://www.glpi-project.org/fr/blog/
-- Youtuber Underscore_ : https://www.youtube.com/@Underscore_
