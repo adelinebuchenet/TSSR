@@ -12,14 +12,14 @@ En tant que personne qui travaille dans l'IT, il est évidemment important de re
 
 ## Qu'est ce que j'utilise pour ma veille ?
 
-Pour effectuer ma veille on m'a conseillé d'utiliser FEEDLY. C'est un agrégateur de flux RSS qui va centraliser les derniers articles de plusieurs dizaines de sites à un seul endroit.
+Pour effectuer ma veille on m'a conseillé d'utiliser FEEDLY. C'est un agrégateur de flux RSS qui va centraliser les derniers articles de plusieurs dizaines de sites à un seul endroit. Il est d'ailleurs possible de faire plusieurs dossiers avec des sites différents selon le thème.
 
 
 ## Sites Internet intéressants
 
 #### Informatique Générale :
-- InformatiqueNews.fr
-- IT-Connect
+- InformatiqueNews.fr : https://www.informatiquenews.fr/
+- IT-Connect : https://www.it-connect.fr/
 - Le comptoir du hardware
 - RDR-IT
 - Tech2Tech
