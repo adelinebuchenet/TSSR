@@ -1,11 +1,5 @@
 # Veille
 
-## Cybersécurité :
-
-- [CERT-FR / ANSSI](https://www.cert.ssi.gouv.fr/)
-- [Data Security Breach](https://www.datasecuritybreach.fr/)
-- [BleepingComputer](https://www.bleepingcomputer.com/)
-
 
 ## Informatique Générale + Hardware :
 
@@ -16,6 +10,13 @@
 - [La Quadrature du Net](https://www.laquadrature.net/en/)
 - [MiniMachines.net](https://www.minimachines.net/)
 - [Silicon.fr](https://www.silicon.fr/#)
+
+
+## Cybersécurité :
+
+- [CERT-FR / ANSSI](https://www.cert.ssi.gouv.fr/)
+- [Data Security Breach](https://www.datasecuritybreach.fr/)
+- [BleepingComputer](https://www.bleepingcomputer.com/)
 
 
 ## Linux :
