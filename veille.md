@@ -14,7 +14,7 @@
 - IT-Connect : https://www.it-connect.fr/
 - Le comptoir du hardware : https://www.comptoir-hardware.com/
 - Tom's Hardware : https://www.tomshardware.fr/
-- Laquadrature.net : https://www.laquadrature.net/en/
+- La Quadrature du Net : https://www.laquadrature.net/en/
 - MiniMachines.net : https://www.minimachines.net/
 - Silicon.fr : https://www.silicon.fr/#
 
