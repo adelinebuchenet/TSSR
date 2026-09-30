@@ -23,6 +23,7 @@ En tant que personne qui travaille dans l'IT, il est évidemment important de re
 - [La Quadrature du Net](https://www.laquadrature.net/en/)
 - [MiniMachines.net](https://www.minimachines.net/)
 - [Silicon.fr](https://www.silicon.fr/#)
+- [Korben](https://korben.info/)
 
 
 ## Cybersécurité :
@@ -41,6 +42,7 @@ En tant que personne qui travaille dans l'IT, il est évidemment important de re
 ## Autres : 
 
 - [GLPI Project](https://www.glpi-project.org/fr/blog/)
+- [Reddit/r/sysadmin](https://www.reddit.com/r/sysadmin/?solution=0ae2f3abac0947100ae2f3abac094710&js_challenge=1&jsc_token=2824be10929bdc604753c70a67a1c331a5fa1d4da611cfdf08f981cb0e5811e4&jsc_orig_r=)
 
 
 ----
