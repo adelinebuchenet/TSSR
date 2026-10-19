@@ -59,7 +59,7 @@
 - **mathématique** : Socle formel (statistiques, algèbre linéaire, probabilités) sur lequel reposent les algorithmes et les réseaux de neurones artificiels.
 - **mémoire unifiée** : Architecture matérielle permettant au CPU et au GPU de partager le même espace mémoire, très utile pour exécuter des modèles locaux lourds.
 - **NVIDIA** : Entreprise conceptrice de semi-conducteurs, leader des puces graphiques (GPU) et du matériel de calcul haute performance pour l'IA.
-- **OpenClaw** : Outil ou agent logiciel open source utilisé dans les environnements de test ou de sécurité.
+- **OpenClaw** : Assistant d'intelligence artificielle open-source et auto-hébergé.
 - **OpenRouter** : Passerelle/API unifiée permettant d'accéder à différents modèles de langage via une interface unique.
 
 ---
