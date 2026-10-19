@@ -1,9 +1,5 @@
 # Glossaire de l'Intelligence Artificielle - TSSR
 
-Ce glossaire regroupe les termes clés de l'Intelligence Artificielle, appliqués aux environnements systèmes, réseaux et à la cybersécurité.
-
----
-
 ### A
 
 - **agent** : Programme ou système autonome doté d'une IA capable de percevoir son environnement, de prendre des décisions et d'agir pour atteindre un objectif spécifique.
