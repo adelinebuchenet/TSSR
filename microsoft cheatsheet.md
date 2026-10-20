@@ -1,8 +1,8 @@
 # CheatSheet Windows - Technicien Supérieur Systèmes & Réseaux (TSSR)
 
-## Raccourcis Importants
+## 1. Raccourcis Importants
 
-### 1. Raccourcis avec la Touche Windows (Win)
+### Raccourcis avec la Touche Windows (Win)
 
 | Raccourci | Action |
 | :--- | :--- |
