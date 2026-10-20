@@ -2,7 +2,7 @@
 
 ## Raccourcis Importants
 
-### Raccourcis avec la Touche Windows (Win)
+### 1. Raccourcis avec la Touche Windows (Win)
 
 | Raccourci | Action |
 | :--- | :--- |
